@@ -1,3 +1,4 @@
 # Beakjoon
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={abvolt})](https://solved.ac/{abvolt})
+<a herf="https://solved.ac/profile/abvolt/", target="_blank">
+	<img src=http://mazassumnida.wtf/api/v2/generate_badge?boj=abvolt>
+</a>
